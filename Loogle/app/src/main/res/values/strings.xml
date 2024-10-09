@@ -1,0 +1,13 @@
+<resources>
+    <!-- App-Wide Strings -->
+    <string name="app_name">Loogle</string>
+
+    <!-- HomeActivity Strings -->
+    <string name="home_button_new">New Toilet</string>
+    <string name="home_button_give">Give Permission</string>
+    <string name="home_text_permission_request">Please allow for location services.</string>
+    <string name="home_text_permission_request_long">This app cannot show you the nearest restroom without location services.
+        Please grant permission to this app to use location services, or core components of the app will be missing.</string>
+    <string name="home_text_lat">Latitude: </string>
+    <string name="home_text_long">Longitude: </string>
+</resources>
